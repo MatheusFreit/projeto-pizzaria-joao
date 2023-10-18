@@ -1,0 +1,42 @@
+E:\CURSO DE PROGRAMAÇÃO 2\C#\Projeto_Pessoal\windows forms\Pizzaria do joao\Pizzaria do joao\Parte do Gerente\Parte do Gerente\bin\Debug\Parte do Gerente.exe.config
+E:\CURSO DE PROGRAMAÇÃO 2\C#\Projeto_Pessoal\windows forms\Pizzaria do joao\Pizzaria do joao\Parte do Gerente\Parte do Gerente\bin\Debug\Parte do Gerente.exe
+E:\CURSO DE PROGRAMAÇÃO 2\C#\Projeto_Pessoal\windows forms\Pizzaria do joao\Pizzaria do joao\Parte do Gerente\Parte do Gerente\bin\Debug\Parte do Gerente.pdb
+E:\CURSO DE PROGRAMAÇÃO 2\C#\Projeto_Pessoal\windows forms\Pizzaria do joao\Pizzaria do joao\Parte do Gerente\Parte do Gerente\obj\Debug\Parte do Gerente.csproj.AssemblyReference.cache
+E:\CURSO DE PROGRAMAÇÃO 2\C#\Projeto_Pessoal\windows forms\Pizzaria do joao\Pizzaria do joao\Parte do Gerente\Parte do Gerente\obj\Debug\Parte_do_Gerente.Form1.resources
+E:\CURSO DE PROGRAMAÇÃO 2\C#\Projeto_Pessoal\windows forms\Pizzaria do joao\Pizzaria do joao\Parte do Gerente\Parte do Gerente\obj\Debug\Parte_do_Gerente.Properties.Resources.resources
+E:\CURSO DE PROGRAMAÇÃO 2\C#\Projeto_Pessoal\windows forms\Pizzaria do joao\Pizzaria do joao\Parte do Gerente\Parte do Gerente\obj\Debug\Parte do Gerente.csproj.GenerateResource.cache
+E:\CURSO DE PROGRAMAÇÃO 2\C#\Projeto_Pessoal\windows forms\Pizzaria do joao\Pizzaria do joao\Parte do Gerente\Parte do Gerente\obj\Debug\Parte do Gerente.csproj.CoreCompileInputs.cache
+E:\CURSO DE PROGRAMAÇÃO 2\C#\Projeto_Pessoal\windows forms\Pizzaria do joao\Pizzaria do joao\Parte do Gerente\Parte do Gerente\obj\Debug\Parte do Gerente.exe
+E:\CURSO DE PROGRAMAÇÃO 2\C#\Projeto_Pessoal\windows forms\Pizzaria do joao\Pizzaria do joao\Parte do Gerente\Parte do Gerente\obj\Debug\Parte do Gerente.pdb
+E:\CURSO DE PROGRAMAÇÃO 2\C#\Projeto_Pessoal\windows forms\Pizzaria do joao\Pizzaria do joao\Parte do Gerente\Parte do Gerente\bin\Debug\BouncyCastle.Crypto.dll
+E:\CURSO DE PROGRAMAÇÃO 2\C#\Projeto_Pessoal\windows forms\Pizzaria do joao\Pizzaria do joao\Parte do Gerente\Parte do Gerente\bin\Debug\Google.Protobuf.dll
+E:\CURSO DE PROGRAMAÇÃO 2\C#\Projeto_Pessoal\windows forms\Pizzaria do joao\Pizzaria do joao\Parte do Gerente\Parte do Gerente\bin\Debug\K4os.Compression.LZ4.dll
+E:\CURSO DE PROGRAMAÇÃO 2\C#\Projeto_Pessoal\windows forms\Pizzaria do joao\Pizzaria do joao\Parte do Gerente\Parte do Gerente\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\CURSO DE PROGRAMAÇÃO 2\C#\Projeto_Pessoal\windows forms\Pizzaria do joao\Pizzaria do joao\Parte do Gerente\Parte do Gerente\bin\Debug\K4os.Hash.xxHash.dll
+E:\CURSO DE PROGRAMAÇÃO 2\C#\Projeto_Pessoal\windows forms\Pizzaria do joao\Pizzaria do joao\Parte do Gerente\Parte do Gerente\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\CURSO DE PROGRAMAÇÃO 2\C#\Projeto_Pessoal\windows forms\Pizzaria do joao\Pizzaria do joao\Parte do Gerente\Parte do Gerente\bin\Debug\MySql.Data.dll
+E:\CURSO DE PROGRAMAÇÃO 2\C#\Projeto_Pessoal\windows forms\Pizzaria do joao\Pizzaria do joao\Parte do Gerente\Parte do Gerente\bin\Debug\System.Buffers.dll
+E:\CURSO DE PROGRAMAÇÃO 2\C#\Projeto_Pessoal\windows forms\Pizzaria do joao\Pizzaria do joao\Parte do Gerente\Parte do Gerente\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\CURSO DE PROGRAMAÇÃO 2\C#\Projeto_Pessoal\windows forms\Pizzaria do joao\Pizzaria do joao\Parte do Gerente\Parte do Gerente\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\CURSO DE PROGRAMAÇÃO 2\C#\Projeto_Pessoal\windows forms\Pizzaria do joao\Pizzaria do joao\Parte do Gerente\Parte do Gerente\bin\Debug\System.IO.Pipelines.dll
+E:\CURSO DE PROGRAMAÇÃO 2\C#\Projeto_Pessoal\windows forms\Pizzaria do joao\Pizzaria do joao\Parte do Gerente\Parte do Gerente\bin\Debug\System.Memory.dll
+E:\CURSO DE PROGRAMAÇÃO 2\C#\Projeto_Pessoal\windows forms\Pizzaria do joao\Pizzaria do joao\Parte do Gerente\Parte do Gerente\bin\Debug\System.Numerics.Vectors.dll
+E:\CURSO DE PROGRAMAÇÃO 2\C#\Projeto_Pessoal\windows forms\Pizzaria do joao\Pizzaria do joao\Parte do Gerente\Parte do Gerente\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\CURSO DE PROGRAMAÇÃO 2\C#\Projeto_Pessoal\windows forms\Pizzaria do joao\Pizzaria do joao\Parte do Gerente\Parte do Gerente\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\CURSO DE PROGRAMAÇÃO 2\C#\Projeto_Pessoal\windows forms\Pizzaria do joao\Pizzaria do joao\Parte do Gerente\Parte do Gerente\bin\Debug\ZstdSharp.dll
+E:\CURSO DE PROGRAMAÇÃO 2\C#\Projeto_Pessoal\windows forms\Pizzaria do joao\Pizzaria do joao\Parte do Gerente\Parte do Gerente\bin\Debug\BouncyCastle.Crypto.xml
+E:\CURSO DE PROGRAMAÇÃO 2\C#\Projeto_Pessoal\windows forms\Pizzaria do joao\Pizzaria do joao\Parte do Gerente\Parte do Gerente\bin\Debug\Google.Protobuf.pdb
+E:\CURSO DE PROGRAMAÇÃO 2\C#\Projeto_Pessoal\windows forms\Pizzaria do joao\Pizzaria do joao\Parte do Gerente\Parte do Gerente\bin\Debug\Google.Protobuf.xml
+E:\CURSO DE PROGRAMAÇÃO 2\C#\Projeto_Pessoal\windows forms\Pizzaria do joao\Pizzaria do joao\Parte do Gerente\Parte do Gerente\bin\Debug\K4os.Compression.LZ4.xml
+E:\CURSO DE PROGRAMAÇÃO 2\C#\Projeto_Pessoal\windows forms\Pizzaria do joao\Pizzaria do joao\Parte do Gerente\Parte do Gerente\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\CURSO DE PROGRAMAÇÃO 2\C#\Projeto_Pessoal\windows forms\Pizzaria do joao\Pizzaria do joao\Parte do Gerente\Parte do Gerente\bin\Debug\K4os.Hash.xxHash.xml
+E:\CURSO DE PROGRAMAÇÃO 2\C#\Projeto_Pessoal\windows forms\Pizzaria do joao\Pizzaria do joao\Parte do Gerente\Parte do Gerente\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\CURSO DE PROGRAMAÇÃO 2\C#\Projeto_Pessoal\windows forms\Pizzaria do joao\Pizzaria do joao\Parte do Gerente\Parte do Gerente\bin\Debug\MySql.Data.xml
+E:\CURSO DE PROGRAMAÇÃO 2\C#\Projeto_Pessoal\windows forms\Pizzaria do joao\Pizzaria do joao\Parte do Gerente\Parte do Gerente\bin\Debug\System.Buffers.xml
+E:\CURSO DE PROGRAMAÇÃO 2\C#\Projeto_Pessoal\windows forms\Pizzaria do joao\Pizzaria do joao\Parte do Gerente\Parte do Gerente\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\CURSO DE PROGRAMAÇÃO 2\C#\Projeto_Pessoal\windows forms\Pizzaria do joao\Pizzaria do joao\Parte do Gerente\Parte do Gerente\bin\Debug\System.IO.Pipelines.xml
+E:\CURSO DE PROGRAMAÇÃO 2\C#\Projeto_Pessoal\windows forms\Pizzaria do joao\Pizzaria do joao\Parte do Gerente\Parte do Gerente\bin\Debug\System.Memory.xml
+E:\CURSO DE PROGRAMAÇÃO 2\C#\Projeto_Pessoal\windows forms\Pizzaria do joao\Pizzaria do joao\Parte do Gerente\Parte do Gerente\bin\Debug\System.Numerics.Vectors.xml
+E:\CURSO DE PROGRAMAÇÃO 2\C#\Projeto_Pessoal\windows forms\Pizzaria do joao\Pizzaria do joao\Parte do Gerente\Parte do Gerente\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\CURSO DE PROGRAMAÇÃO 2\C#\Projeto_Pessoal\windows forms\Pizzaria do joao\Pizzaria do joao\Parte do Gerente\Parte do Gerente\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\CURSO DE PROGRAMAÇÃO 2\C#\Projeto_Pessoal\windows forms\Pizzaria do joao\Pizzaria do joao\Parte do Gerente\Parte do Gerente\obj\Debug\Parte do Gerente.csproj.CopyComplete

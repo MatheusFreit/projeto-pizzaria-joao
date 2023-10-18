@@ -1,0 +1,10 @@
+E:\CURSO DE PROGRAMAÇÃO 2\C#\Projeto_Pessoal\windows forms\Pizzaria do joao\Pizzaria do joao\login e senha\login\bin\Debug\login.exe.config
+E:\CURSO DE PROGRAMAÇÃO 2\C#\Projeto_Pessoal\windows forms\Pizzaria do joao\Pizzaria do joao\login e senha\login\bin\Debug\login.exe
+E:\CURSO DE PROGRAMAÇÃO 2\C#\Projeto_Pessoal\windows forms\Pizzaria do joao\Pizzaria do joao\login e senha\login\bin\Debug\login.pdb
+E:\CURSO DE PROGRAMAÇÃO 2\C#\Projeto_Pessoal\windows forms\Pizzaria do joao\Pizzaria do joao\login e senha\login\obj\Debug\login.csproj.AssemblyReference.cache
+E:\CURSO DE PROGRAMAÇÃO 2\C#\Projeto_Pessoal\windows forms\Pizzaria do joao\Pizzaria do joao\login e senha\login\obj\Debug\login.Form1.resources
+E:\CURSO DE PROGRAMAÇÃO 2\C#\Projeto_Pessoal\windows forms\Pizzaria do joao\Pizzaria do joao\login e senha\login\obj\Debug\login.Properties.Resources.resources
+E:\CURSO DE PROGRAMAÇÃO 2\C#\Projeto_Pessoal\windows forms\Pizzaria do joao\Pizzaria do joao\login e senha\login\obj\Debug\login.csproj.GenerateResource.cache
+E:\CURSO DE PROGRAMAÇÃO 2\C#\Projeto_Pessoal\windows forms\Pizzaria do joao\Pizzaria do joao\login e senha\login\obj\Debug\login.csproj.CoreCompileInputs.cache
+E:\CURSO DE PROGRAMAÇÃO 2\C#\Projeto_Pessoal\windows forms\Pizzaria do joao\Pizzaria do joao\login e senha\login\obj\Debug\login.exe
+E:\CURSO DE PROGRAMAÇÃO 2\C#\Projeto_Pessoal\windows forms\Pizzaria do joao\Pizzaria do joao\login e senha\login\obj\Debug\login.pdb
