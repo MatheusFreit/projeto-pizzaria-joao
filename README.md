@@ -43,6 +43,6 @@ Esta seção é o núcleo das operações gerenciais da pizzaria. Aqui, o gerent
 
 # Desenvolvedor
 
-Esse projeto foi desenvolvido por [Matheus Freitas] como parte de um exercício de programação em SQL (SQL do básico ao avançado (com MySQL e Projeto), ministrado por Matheus Battisti, Hora de Codar na Udemy.).
-Nota 01: O professor Matheus Battisti utilizou PHP no curso para desenvolver o projeto. No entanto, como forma de avaliar meu nível em C#, optei por criar o projeto em Windows Forms. Posteriormente, planejo desenvolvê-lo em C# .Net.
-Nota 02: Este projeto foi criado apenas para fins educacionais e de demonstração, e pode não possuir todas as funcionalidades ou tratamentos de erros necessários para um sistema de produção completo.
+* Esse projeto foi desenvolvido por [Matheus Freitas] como parte de um exercício de programação em SQL (SQL do básico ao avançado (com MySQL e Projeto), ministrado por Matheus Battisti, Hora de Codar na Udemy.). <br><br>
+* Nota 01: O professor Matheus Battisti utilizou PHP no curso para desenvolver o projeto. No entanto, como forma de avaliar meu nível em C#, optei por criar o projeto em Windows Forms. Posteriormente, planejo desenvolvê-lo em C# .Net.<br><br>
+* Nota 02: Este projeto foi criado apenas para fins educacionais e de demonstração, e pode não possuir todas as funcionalidades ou tratamentos de erros necessários para um sistema de produção completo.<br><br>
