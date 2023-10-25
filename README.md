@@ -38,3 +38,11 @@ Esta seção é o núcleo das operações gerenciais da pizzaria. Aqui, o gerent
 ### Atualização de novos sabores, massas e boras
 
 <img  width= "596" height = "650" src="https://github.com/MatheusFreit/projeto-pizzaria-joao/blob/master/Pizzaria%20do%20joao/imagens/GERENTE/inserir%20novos%20produtos.png?raw=true" Alt = "login"> 
+
+
+
+# Desenvolvedor
+
+Esse projeto foi desenvolvido por [Matheus Freitas] como parte de um exercício de programação em SQL (SQL do básico ao avançado (com MySQL e Projeto), ministrado por Matheus Battisti, Hora de Codar na Udemy.).
+Nota 01: O professor Matheus Battisti utilizou PHP no curso para desenvolver o projeto. No entanto, como forma de avaliar meu nível em C#, optei por criar o projeto em Windows Forms. Posteriormente, planejo desenvolvê-lo em C# .Net.
+Nota 02: Este projeto foi criado apenas para fins educacionais e de demonstração, e pode não possuir todas as funcionalidades ou tratamentos de erros necessários para um sistema de produção completo.
